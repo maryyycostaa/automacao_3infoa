@@ -9,12 +9,12 @@ match mes:
     case 3:
         print("Março")
     case 4:
-        print("Abriu")
+        print("Abril")
     case 5:
         print("Maio")
     case 6:
         print("Junho")
     case 7:
         print("Julho")
-    case_:
-    print(Valor Inválido)
+    case _:
+        print("Valor Inválido")
